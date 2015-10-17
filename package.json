@@ -1,0 +1,28 @@
+{
+  "name": "probedock-demo-jasmine2",
+  "version": "0.1.0",
+  "description": "Reference project showing how to integrate Probe Dock with Jasmine2",
+  "main": "app/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wasadigi/probedock-demo-mocha.git"
+  },
+  "keywords": [
+    "probedock",
+    "jasmine",
+    "testing"
+  ],
+  "author": "Olivier Liechti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wasadigi/probedock-demo-jasmine2/issues"
+  },
+  "homepage": "https://github.com/wasadigi/probedock-demo-jasmine2",
+  "devDependencies": {
+    "jasmine": "^2.3.2",
+    "probedock-node": "^0.2.2"
+  }
+}
